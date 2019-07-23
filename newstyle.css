@@ -1,0 +1,132 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.menutadm a{
+	text-decoration:none;
+	color: black;
+}
+
+body{
+	font-family: arial;
+}
+
+body{
+	background: #FFF1D6 url("nerd.png");
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+	sans-serif;
+	background-position: 50% 10%;
+	line-height: 1.6;
+}
+
+ul{
+	list-style: none;
+}
+
+input[type="submit"]{
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+#esquerda{
+	width: 35%;
+	float: right;
+				
+}
+
+#direita{
+	width: 65%;
+	height: 500px;
+	float: left;
+
+
+
+}
+
+table{
+	background-color: #8B008B;
+	width: 90%;
+	margin: 30px 0;
+}
+
+tr{
+	line-height: 30px;
+}
+
+tr#titulo{
+	font-weight: bold;
+	background-color: rgba(0,0,0,.6);
+	color: white;
+}
+
+label, input{
+	display: block;
+	line-height: 30px;
+	height: 30px;
+	outline: none;
+	font-size: 13pt;
+	width: 100%;
+
+}
+
+form{
+	width: 330px;
+	background-color: #8B008B;
+	padding: 20px;
+	margin: 30px auto;
+}
+
+.menutadm ul{
+	list-style:none;
+	background:#efa5e9;
+    text-align:center;
+    padding: 0;
+    margin: 0;
+      
+}
+
+.menutadm li{
+	display: inline-block;
+}
+
+.menutadm a{
+	text-decoration: none;
+	color: #fff;
+	width:100px;
+	display: block;
+	padding: 15px;
+	font-size: 17px;
+	font-family: "Lucida Grande","Lucida Sans Unicode", Verdana,
+	sans-serif;
+	transition: 0.4s;
+}
+
+.menutadm a:hover {
+	background:#8B008B;
+	transition: 0.6s;
+
+}
+
+td{
+	padding: 0px 5px;
+}
+
+h2{
+	text-align: center;
+}
+
+a.botaodoodio{
+	color: black;
+	padding: 15px;
+	margin: 0px 5px;
+	text-decoration: none;
+
+}
+
+a.botaodoodio2{
+	color: black;
+	padding: 15px;
+	margin: 0px 5px;
+	text-decoration: none;
+}

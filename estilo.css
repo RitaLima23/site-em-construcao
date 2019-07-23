@@ -1,0 +1,94 @@
+.começo{
+	background-color: #FFF1D6;
+}
+
+
+.container{
+	margin: 0 auto;
+	width: 960px;
+
+}
+
+body{
+	font-family:"Lucida Grande","Lucida Sans Unicode", Verdana,
+	sans-serif;
+	line-height:1.6;
+}
+
+.disciplina{
+	background-color: #FFF;
+	border-color: #CCC #999 #999 #CCC;
+	border: 1px solid #CCC;
+	margin-bottom: 20px;
+	padding: 10px;
+
+}
+
+.disciplina h2{
+	border-bottom: 1px dashed  #efa5e9;
+	margin: 0;
+}
+
+.disciplina h3{
+	border-bottom: 1px dashed  #efa5e9;
+	margin: 0;
+}
+
+body{
+	background: #FFF1D6 url("nerd.png");
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+	sans-serif;
+	line-height: 1.6;
+}
+
+.disciplina a{
+	color: #2C88A7;
+	font-weight: bold;
+}
+
+h1 {
+	background-color: #efa5e9;
+	color: #020202;
+	text-decoration: none;
+	
+}
+
+.container img{
+	border: 1px solid #7E9F19;
+	float: left;
+	margin: 10px 10px 0 0;
+	padding: 2px;
+}
+
+.clear{
+	clear: both;
+}
+
+.footer {
+	font-size: 12px;
+	text-align: center;
+
+}
+
+table a {
+   
+	text-decoration: none;
+
+ }   
+
+
+table {
+    border: 1px solid pink;
+    width: 50% !important; /*Importante manter o !important rs */
+    margin: auto;
+}
+
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+.disciplina a {
+	color: red;
+
+	}
